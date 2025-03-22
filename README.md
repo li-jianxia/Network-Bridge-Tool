@@ -63,6 +63,10 @@ python "Network Bridge Tool.py"
 }
 ```
 
+## UDP Device Port
+
+- udp port：8889
+
 ## Logging
 
 - Log file: `network_bridge.log`
@@ -138,6 +142,10 @@ python "Network Bridge Tool.py"
 }
 }
 ```
+
+## UDP设备端口
+
+- udp端口号：8889
 
 ## 日志记录
 
